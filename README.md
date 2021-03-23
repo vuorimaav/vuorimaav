@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @vuorimaav
+- 🌱 I’m currently learning React & TypeScript and Native Android development in Kotlin
